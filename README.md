@@ -60,7 +60,7 @@ $env:OPENAI_API_KEY="your-api-key-here"
 ### 4. Run the Script
 
 ```bash
-python first_call.py
+python3 first_call.py
 ```
 
 ## Usage Example

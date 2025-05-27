@@ -20,7 +20,7 @@ A simple Python script that demonstrates how to make a successful API call to Op
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/first-openai-api-call.git
+git clone https://github.com/akhilbawari/first-openai-api-call.git
 cd first-openai-api-call
 ```
 
